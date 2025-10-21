@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "5bbcaf0b-db55-4844-ae62-8217706fb200",
+    "Name": "UsrDummyObject",
+    "ModifiedOnUtc": "\/Date(1761082702000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "DummyObject"
+  }
+}
